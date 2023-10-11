@@ -16,6 +16,7 @@ This is a simple web project, so it can be on any web server.
 
 Just a bit more text for comparison
 And something for the local workspace
+More information about merging
 
 ### Copyright
 
