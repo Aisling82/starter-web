@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 This is a simple web project, so it can be on any web server.
 
 ## How To Contribute 
+Just a bit more text for comparison
+And something for the local workspace
